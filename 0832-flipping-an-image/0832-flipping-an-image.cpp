@@ -1,0 +1,20 @@
+class Solution {
+public:
+    vector<vector<int>> flipAndInvertImage(vector<vector<int>>& image) {
+        
+        int n = image.size();
+
+        for(int i = 0; i < n; i++) {
+            
+            // Step 1: Reverse the row
+            reverse(image[i].begin(), image[i].end());
+
+            // Step 2: Invert every element
+            for(int j = 0; j < n; j++) {
+                image[i][j] = 1 - image[i][j];
+            }
+        }
+
+        return image;
+    }
+};
