@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -82,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
