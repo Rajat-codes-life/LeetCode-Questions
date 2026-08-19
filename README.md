@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0832-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Linked List
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0832-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Bit Manipulation
@@ -95,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0832-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
