@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0520-detect-capital) |
 ## Sliding Window
 |  |
 | ------- |
