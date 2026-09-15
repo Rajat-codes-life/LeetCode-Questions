@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0520-detect-capital) |
 | [0824-goat-latin](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
+| [0925-long-pressed-name](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0925-long-pressed-name) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
+| [0925-long-pressed-name](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0925-long-pressed-name) |
 ## Dynamic Programming
 |  |
 | ------- |
