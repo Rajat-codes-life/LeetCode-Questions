@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0520-detect-capital) |
 | [0824-goat-latin](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0824-goat-latin) |
+| [0844-backspace-string-compare](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 ## String Matching
 |  |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
