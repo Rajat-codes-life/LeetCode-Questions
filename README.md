@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0824-goat-latin](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0925-long-pressed-name) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0925-long-pressed-name) |
