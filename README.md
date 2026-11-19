@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 ## String
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
