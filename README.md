@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0344-reverse-string) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 ## Interactive
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
