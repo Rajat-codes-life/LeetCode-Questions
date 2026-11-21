@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
