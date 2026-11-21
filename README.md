@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
