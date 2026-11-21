@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 | [0661-image-smoother](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0704-binary-search) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -294,12 +296,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 ## Counting Sort
 |  |
