@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0883-projection-area-of-3d-shapes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
