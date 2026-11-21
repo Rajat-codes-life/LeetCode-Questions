@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [1122-relative-sort-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1122-relative-sort-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
@@ -264,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1122-relative-sort-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
