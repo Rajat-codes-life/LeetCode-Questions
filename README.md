@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
