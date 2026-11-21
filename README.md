@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Bit Manipulation
 |  |
