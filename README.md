@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0925-long-pressed-name) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Interactive
 |  |
 | ------- |
