@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0682-baseball-game) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1051-height-checker) |
