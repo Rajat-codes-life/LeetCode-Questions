@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0567-permutation-in-string) |
+| [0859-buddy-strings](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0859-buddy-strings) |
 | [1122-relative-sort-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1122-relative-sort-array) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 | [0824-goat-latin](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0859-buddy-strings) |
 | [0925-long-pressed-name](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0925-long-pressed-name) |
 ## Sliding Window
 |  |
