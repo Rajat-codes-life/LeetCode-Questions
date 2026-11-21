@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0567-permutation-in-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0283-move-zeroes) |
