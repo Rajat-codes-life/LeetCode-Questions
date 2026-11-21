@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1051-height-checker](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1051-height-checker) |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1051-height-checker) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
