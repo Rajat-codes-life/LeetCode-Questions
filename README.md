@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
