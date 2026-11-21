@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1051-height-checker](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [1051-height-checker](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1051-height-checker) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
@@ -224,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
