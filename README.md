@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0925-long-pressed-name) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1051-height-checker) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
