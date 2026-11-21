@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0739-daily-temperatures) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0605-can-place-flowers) |
 ## Quicksort
 |  |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
