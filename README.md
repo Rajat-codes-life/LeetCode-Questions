@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0704-binary-search) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Rajat-codes-life/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
